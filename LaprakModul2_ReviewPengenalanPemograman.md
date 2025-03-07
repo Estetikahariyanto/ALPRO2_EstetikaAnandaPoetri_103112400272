@@ -38,8 +38,8 @@ func main() {
 }
 ```
 
->Output
->[![[gambar1.png]]](https://github.com/Estetikahariyanto/ALPRO2_EstetikaAnandaPoetri_103112400272/blob/main/MODUL2_REVIEW%20PENGENALAN%20PEMROGRAMAN/Output/gambar1.png)
+![Output](./Output/gambar1.png)
+
 
 
 Program ini menerima tiga string dari pengguna, Melakukan rotasi nilai secara searah jarum jam dan Menampilkan hasil sebelum dan sesudah rotasi.
