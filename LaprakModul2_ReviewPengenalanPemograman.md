@@ -37,7 +37,7 @@ func main() {
 
 }
 ```
-
+> Output
 ![Output](./Output/gambar1.png)
 
 
@@ -67,7 +67,7 @@ func main() {
 ```
 
 > Output
-> ![[gambar2.png]]
+![Output](./Output/gambar2.png)
 
 Program ini menentukan apakah suatu tahun adalah **kabisat** atau bukan berdasarkan aturan pembagian bilangan.
 Digunakan **operator modulus (`%`)** untuk memeriksa habis atau tidaknya suatu tahun dibagi angka tertentu.
@@ -94,7 +94,7 @@ func main() {
 ```
 
 > Output
->![[gambar3.png]]
+![Output](./Output/gambar3.png)
 
 Program ini membaca **jari jari bola**, lalu menghitung **volume** dan **luas permukaan bola** menggunakan rumus matematika yang sesuai.
 Fungsi `math.Pow()` digunakan untuk melakukan operasi pangkat.
@@ -126,7 +126,7 @@ func main() {
 ```
 
 > Output
-> ![[gambar4.png]]
+![Output](./Output/gambar4.png)
 
 Membaca input suhu dalam Celsius menggunakan `fmt.Scanln(&celsius)`.
 Menggunakan rumus konversi untuk menghitung suhu dalam Reamur, Fahrenheit, dan Kelvin.
@@ -167,8 +167,8 @@ func main() {
 ```
 
 
-> Output 
-> ![[gambar5.png]]
+> Output
+![Output](./Output/gambar5.png)
 
 Program ini menunjukkan gimana data numerik (bilangan integer) itu dapat direpresentasikan sebagai karakter pakai kode ASCII.
 
@@ -209,8 +209,8 @@ func main() {
 }
 ```
 
->Output
->![[gambar6.png]]
+> Output
+![Output](./Output/gambar6.png)
 
 Program ini bertujuan untuk mengevaluasi keberhasilan percobaan kimia berdasarkan urutan warna cairan dalam tabung reaksi. Jika urutan warna dalam 5 percobaan berturut-turut adalah merah, kuning, hijau, ungu, maka hasilnya BERHASIL. Jika ada satu percobaan yang tidak sesuai, maka hasilnya FALSE.
 
@@ -244,8 +244,8 @@ func main() {
 }
 ```
 
->Output
-> ![[gambar7.png]]
+> Output
+![Output](./Output/gambar7.png)
 
 Program ini menerima input jumlah bunga N lalu meminta N nama bunga utk disusun dalam pita memakai tanda "-" sebagai pemisah. jika N = 0, maka pita kosong.
 Modifikasi program memungkinkan input berhenti saat pengguna mengetik SELESAI, lalu menampilkan isi pita dan jumlah bunga yang dimasukkan.
@@ -273,7 +273,7 @@ func main() {
 ```
 
 > Output
-> ![[gambar8.png]]
+![Output](./Output/gambar8.png)
 
 Program ini meminta pengguna untuk memasukkan berat dua kantong terpal secara berulang hingga salah satu kantong memiliki berat minimal 9 kg, lalu program akan berhenti dengan pesan bahwa proses selesai.
 
@@ -312,7 +312,7 @@ func main() {
 ```
 
 > Output
-> ![[gambar9.png]]
+![Output](./Output/gambar9.png)
 
 Program ini menghitung f(K) pakai rumus matematika, lalu menggunakannya untuk memperkirakan √2 dengan mengalikan hasil f(k) dari k = 0 sampai K-1. Semakin besar K, semakin mendekati nilai √2.
 
@@ -351,7 +351,7 @@ func main() {
 ```
 
 > Output
-> ![[gambar10.png]]
+![Output](./Output/gambar10.png)
 
 Program ini tujuannya untuk menghitung biaya pengiriman berdasarkan berat paket yang di kasihkan dri pengguna. masukan berat paket dlm satuan gram dri pengguna. kemudian program akan mengkonversi berat tsb ke satuan kilogram dan menghitung sisa berat dlm gram, lalu.. biaya dasar pengiriman ditetapkan sebesar 10.000/kilo. jika ada sisa berat sampai 500 gram maka biaya tambahan dihitung Rp.5/gram kalau sisa berat lebih dari 500 gram, biaya tambahannya yaitu Rp. 15/gram. jika total berat paket lebih dari 10 kg program akan membulatkannya ke lipatan 10 kg utk perhitungan biaya.
 dannn program menampilkan total biaya pengiriman yg hrus dibayar.
@@ -502,8 +502,8 @@ func main() {
 }
 ```
 
->Output
-> ![[gambar11.png]]
+> Output
+![Output](./Output/gambar11.png)
 
 Untuk menerima input sebuah bilangan bulat lebih dari 1, mencari faktor-faktornya, dan menentukan apakah bilangan tersebut merupakan bilangan prima atau bukan..
 
