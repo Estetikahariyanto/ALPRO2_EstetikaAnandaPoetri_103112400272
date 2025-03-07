@@ -37,7 +37,7 @@ func main() {
 
 }
 ```
-
+> Output
 > ![Output](./Output/gambar1.png)
 
 Program ini menerima tiga string dari pengguna, Melakukan rotasi nilai secara searah jarum jam dan Menampilkan hasil sebelum dan sesudah rotasi.
