@@ -108,8 +108,7 @@ hofog(c) = h(f(g(c)))
 
 ### NO 3
 
->![](gambarsoal/soal3.png)
-
+[>![](gambarsoal/soal3.png)](https://github.com/Estetikahariyanto/ALPRO2_EstetikaAnandaPoetri_103112400272/blob/main/MODUL3_FUNGSI/gambarsoal/soal3.jpg)
 
 ```go
 package main
