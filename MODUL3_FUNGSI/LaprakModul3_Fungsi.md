@@ -108,8 +108,7 @@ hofog(c) = h(f(g(c)))
 
 ### NO 3
 
-Soal no 3
->![](https://raw.githubusercontent.com/username/repository/main/MODUL3_FUNGSI/gambarsoal/soal3.png)
+>![](gambarsoal/soal3.png)
 
 
 ```go
