@@ -44,6 +44,9 @@ Program ini menerima tiga string dari pengguna, Melakukan rotasi nilai secara se
 
 ### NO 2
 
+Tahun kabisat adalah tahun yang habis dibagi 400 atau habis dibagi 4 tetapi tidak habis dibagi 100. Buatlah sebuah program yang menerima input sebuah bilangan bulat dan memeriksa apakah bilangan tersebut merupakan tahun kabisat (true) atau bukan (false).
+(Contoh input/output, Teks bergaris bawah adalah input dari user):
+
 ```go
 package main
 
