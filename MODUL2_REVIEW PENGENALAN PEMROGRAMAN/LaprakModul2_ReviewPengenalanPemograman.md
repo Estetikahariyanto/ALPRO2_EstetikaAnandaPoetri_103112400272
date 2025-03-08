@@ -45,7 +45,6 @@ Program ini menerima tiga string dari pengguna, Melakukan rotasi nilai secara se
 ### NO 2
 
 Tahun kabisat adalah tahun yang habis dibagi 400 atau habis dibagi 4 tetapi tidak habis dibagi 100. Buatlah sebuah program yang menerima input sebuah bilangan bulat dan memeriksa apakah bilangan tersebut merupakan tahun kabisat (true) atau bukan (false).
-(Contoh input/output, Teks bergaris bawah adalah input dari user):
 
 ```go
 package main
@@ -76,6 +75,8 @@ Hasil yang ditampilkan adalah `true` untuk kabisat dan `false` untuk bukan kabis
 
 ### NO 3
 
+Buat program Bola yang menerima input jari-jari suatu bola (bilangan bulat). Tampilkan Volume dan Luas kulit bola. 𝑣𝑜𝑙𝑢𝑚𝑒𝑏𝑜𝑙𝑎=43𝜋𝑟3 dan 𝑙𝑢𝑎𝑠𝑏𝑜𝑙𝑎=4𝜋𝑟2 (π ≈ 3.1415926535).
+
 ```go
 package main
 
@@ -102,6 +103,9 @@ Fungsi `math.Pow()` digunakan untuk melakukan operasi pangkat.
 Hasil ditampilkan dengan format 4 angka desimal untuk lebih presisi.
 
 ### NO 4
+
+Dibaca nilai temperatur dalam derajat Celsius. Nyatakan temperatur tersebut dalam Fahrenheit
+𝐶𝑒𝑙𝑠𝑖𝑢𝑠=(𝐹𝑎ℎ𝑟𝑒𝑛ℎ𝑒𝑖𝑡−32)×59 𝑅𝑒𝑎𝑚𝑢𝑟=𝐶𝑒𝑙𝑐𝑖𝑢𝑠×45 𝐾𝑒𝑙𝑣𝑖𝑛=(𝐹𝑎ℎ𝑟𝑒𝑛ℎ𝑒𝑖𝑡+459.67)×59
 
 ```go
 package main
@@ -134,6 +138,11 @@ Menggunakan rumus konversi untuk menghitung suhu dalam Reamur, Fahrenheit, dan K
 Menampilkan hasil konversi menggunakan `fmt.Printf()` utk hasil memiliki 2 angka di belakang koma untuk presisi.
 
 ### NO 5.
+
+Tipe karakter sebenarnya hanya apa yang tampak dalam tampilan. Di dalamnya tersimpan dalam bentuk biner 8 bit (byte) atau 32 bit (rune) saja.
+Buat program ASCII yang akan membaca 5 buat data integer dan mencetaknya dalam format karakter. Kemudian membaca 3 buah data karakter dan mencetak 3 buah karakter setelah karakter tersebut (menurut tabel ASCII)
+Masukan terdiri dari dua baris. Baris pertama berisi 5 buah data integer. Data integer mempunyai nilai antara 32 s.d. 127. Baris kedua berisi 3 buah karakter yang berdampingan satu dengan yang lain (tanpa dipisahkan spasi).
+Keluaran juga terdiri dari dua baris. Baris pertama berisi 5 buah representasi karakter dari data yang diberikan, yang berdampingan satu dengan lain, tanpa dipisahkan spasi. Baris kedua berisi 3 buah karakter (juga tidak dipisahkan oleh spasi).
 
 ```go
 package main
@@ -178,6 +187,9 @@ Program ini menunjukkan gimana data numerik (bilangan integer) itu dapat direpre
 
 ## NO 1
 
+Siswa kelas IPA di salah satu sekolah menengah atas di Indonesia sedang mengadakan praktikum kimia. Di setiap percobaan akan menggunakan 4 tabung reaksi, yang mana susunan warna cairan di setiap tabung akan menentukan hasil percobaan. Siswa diminta untuk mencatat hasil percobaan tersebut. Percobaan dikatakan berhasil apabila susunan warna zat cair pada gelas 1 hingga gelas 4 secara berturutan adalah ‘merah’, ‘kuning’, ‘hijau’, dan ‘ungu’ selama 5 kali percobaan berulang.
+Buatlah sebuah program yang menerima input berupa warna dari ke 4 gelas reaksi sebanyak 5 kali percobaan. Kemudian program akan menampilkan true apabila urutan warna sesuai dengan informasi yang diberikan pada paragraf sebelumnya, dan false untuk urutan warna lainnya.
+
 ```go
 package main
 import (
@@ -217,6 +229,12 @@ Program ini bertujuan untuk mengevaluasi keberhasilan percobaan kimia berdasarka
 
 ### NO 2
 
+Suatu pita (string) berisi kumpulan nama-nama bunga yang dipisahkan oleh spasi dan ‘–‘, contoh pita diilustrasikan seperti berikut ini.
+Pita: mawar – melati – tulip – teratai – kamboja – anggrek
+Buatlah sebuah program yang menerima input sebuah bilangan bulat positif (dan tidak nol) N, kemudian program akan meminta input berupa nama bunga secara berulang sebanyak N kali dan nama tersebut disimpan ke dalam pita.
+(Petunjuk: gunakan operasi penggabungan string dengan operator “+” ).
+Tampilkan isi pita setelah proses input selesai.
+
 ```go
 package main
 
@@ -253,6 +271,9 @@ Modifikasi program memungkinkan input berhenti saat pengguna mengetik SELESAI, l
 
 ### NO 3
 
+Setiap hari Pak Andi membawa banyak barang belanjaan dari pasar dengan mengendarai sepeda motor. Barang belanjaan tersebut dibawa dalam kantong terpal di kiri-kanan motor. Sepeda motor tidak akan oleng jika selisih berat barang di kedua kantong sisi tidak lebih dari 9 kg.
+Buatlah program Pak Andi yang menerima input dua buah bilangan real positif yang menyatakan berat total masing-masing isi kantong terpal. Program akan terus meminta input bilangan tersebut hingga salah satu kantong terpal berisi 9 kg atau lebih.
+
 ```go
 package main
 
@@ -279,6 +300,10 @@ func main() {
 Program ini meminta pengguna untuk memasukkan berat dua kantong terpal secara berulang hingga salah satu kantong memiliki berat minimal 9 kg, lalu program akan berhenti dengan pesan bahwa proses selesai.
 
 ### NO 4
+
+Diberikan sebuah persamaan sebagai berikut ini.
+𝑓(𝑘)=(4𝑘+2)^2(4𝑘+1)(4𝑘+3)
+Buatlah sebuah program yang menerima input sebuah bilangan sebagai K, kemudian menghitung dan menampilkan nilai f(K) sesuai persamaan di atas.
 
 ```go
 package main
@@ -320,6 +345,9 @@ Program ini menghitung f(K) pakai rumus matematika, lalu menggunakannya untuk me
 ## SOAL 2C
 
 ### NO 1
+
+PT POS membutuhkan aplikasi perhitungan biaya kirim berdasarkan berat parsel. Maka, buatlah program BiayaPos untuk menghitung biaya pengiriman tersebut dengan ketentuan sebagai berikut!
+Dari berat parsel (dalam gram), harus dihitung total berat dalam kg dan sisanya (dalam gram). Biaya jasa pengiriman adalah Rp. 10.000,- per kg. Jika sisa berat tidak kurang dari 500 gram, maka tambahan biaya kirim hanya Rp. 5,- per gram saja. Tetapi jika kurang dari 500 gram, maka tambahan biaya akan dibebankan sebesar Rp. 15,- per gram. Sisa berat (yang kurang dari 1kg) digratiskan biayanya apabila total berat ternyata lebih dari 10kg.
 
 ```go
 package main
@@ -452,6 +480,9 @@ func main() {
 ```
 
 ### NO 3
+
+Sebuah bilangan bulat b memiliki faktor bilangan f > 0 jika f habis membagi b. Contoh: 2 merupakan faktor dari bilangan 6 karena 6 habis dibagi 2.
+Buatlah program yang menerima input sebuah bilangan bulat b dan b > 1. Program harus dapat mencari dan menampilkan semua faktor dari bilangan tersebut!
 
 ```go
 package main
