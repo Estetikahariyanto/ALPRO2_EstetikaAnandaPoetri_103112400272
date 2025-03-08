@@ -109,7 +109,8 @@ hofog(c) = h(f(g(c)))
 ### NO 3
 
 Soal no 3
-[>![](gambarsoal/soal3.png)](https://github.com/Estetikahariyanto/ALPRO2_EstetikaAnandaPoetri_103112400272/blob/main/MODUL3_FUNGSI/gambarsoal/soal3.jpg)
+>![](https://raw.githubusercontent.com/username/repository/main/MODUL3_FUNGSI/gambarsoal/soal3.png)
+
 
 ```go
 package main
@@ -159,6 +160,3 @@ Fungsi dalamLingkaran
 Fungsi main (Program Utama)
     Mengambil input untuk dua lingkaran (pusat dan radius) serta titik yang akan dicek.
     Menggunakan fungsi dalamLingkaran untuk mengecek apakah titik berada dalam lingkaran pertama, kedua, atau keduanya. lalu mencetak hasil berdasarkan kondisi yang sesuai.
-
-
-
