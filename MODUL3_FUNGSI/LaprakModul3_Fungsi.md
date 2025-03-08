@@ -110,7 +110,6 @@ hofog(c) = h(f(g(c)))
 
 >![](gambarsoal/soal3.png)
 
-
 ```go
 package main
 
