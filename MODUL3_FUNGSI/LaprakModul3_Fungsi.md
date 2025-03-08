@@ -58,7 +58,7 @@ hasil menampilkan dalam 2 baris, baris pertama yaitu hasil untuk pasangan a,c da
 
 ### NO 2
 
-![[soal2.png]]
+>![](gambarsoal/soal2.png)
 
 ```go
 package main
@@ -108,7 +108,8 @@ hofog(c) = h(f(g(c)))
 
 ### NO 3
 
->![[soal3.jpg]]
+>![](gambarsoal/soal3.png)
+
 
 ```go
 package main
