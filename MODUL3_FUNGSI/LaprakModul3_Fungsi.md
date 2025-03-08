@@ -51,7 +51,7 @@ func main() {
 ```
 
 >Output
-> ![Output](./Output/ss1.png)
+>![Output](./Output/ss1.png)
 
 Program ini untuk menghitung permutasi dan kombinasi dari dua pasang angka yang diberikan sebagai input. pengguna memasukan empat angka yaitu a,b,c,d dengan syarat nya adalah a lebih besar sama dengan c & b lebih besar sama dengan d. nah program kemudian menghitung permutasi dan kombinasi pakai rumus. Permutasi menghitung jumlah cara mengatur r elemen dari n elemen yang sudah ada, sedangkan kombinasi menghitung jumlah cara memilih r elemen dari n elemen tanpa perhatiin urutan.
 hasil menampilkan dalam 2 baris, baris pertama yaitu hasil untuk pasangan a,c dan baris kedua hasil untuk pasangan b,d
@@ -95,7 +95,7 @@ func main() {
 ```
 
 > Output
-> ![Output](ss2.png)
+>![Output](./Output/ss2.png)
 
 Program ini menghitung komposisi 3 fungsi mtk :
 f(x)=x2 (kuadrat dari x)
