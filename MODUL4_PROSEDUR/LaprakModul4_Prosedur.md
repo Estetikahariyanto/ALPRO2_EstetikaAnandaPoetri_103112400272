@@ -8,7 +8,7 @@
 
 ## NO 1
 
-![[MODUL4_PROSEDUR/gambarsoal/soal1.png]]
+>![](gambarsoal/soal1.png)
 
 ```go
 package main
@@ -47,8 +47,8 @@ func main() {
 }
 ```
 
->Output
-> ![Output](MODUL4_PROSEDUR/Output/ss1.png)
+> Output
+![Output](./Output/SS1.png)
 
 Program ini untuk menghitung nilai permutasi (P(n,r)) dan kombinasi (C(n,r)) dari dua pasang bilangan yang diberikan sebagai input.
 Untuk menjalankan program ini, digunakan tiga prosedur utama, yaitu:
@@ -58,7 +58,7 @@ Untuk menjalankan program ini, digunakan tiga prosedur utama, yaitu:
 3. Prosedur kombinasi yang juga menggunakan faktorial untuk menghitung kombinasi.
 ### NO 2
 
-![[MODUL4_PROSEDUR/gambarsoal/soal2.png]]
+>![](gambarsoal/soal2.png)
 
 ```go
 package main
@@ -114,7 +114,7 @@ func main() {
 ```
 
 > Output
-> ![Output](MODUL4_PROSEDUR/Output/ss2.png)
+![Output](./Output/ss2.png)
 
 Program untuk menentukan pemenang dalam kompetisi pemrograman berdasarkan jumlah soal yang berhasil diselesaikan dalam waktu maksimal 301 menit. Jika ada lebih dari satu peserta dengan jumlah soal yang sama, pemenang ditentukan berdasarkan waktu penyelesaian yang lebih sedikit.
 
@@ -122,7 +122,7 @@ Program untuk menentukan pemenang dalam kompetisi pemrograman berdasarkan jumlah
 
 Skiena dan Revilla dalam Programming Challenges mendefinisikan sebuah deret bilangan. Deret dimulai dengan sebuah bilangan bulat n. Jika bilangan n saat itu genap, maka suku berikutnya adalah ½n, tetapi jika ganjil maka suku berikutnya bernilai 3n+1. Rumus yang sama digunakan terus menerus untuk mencari suku berikutnya. Deret berakhir ketika suku terakhir.
 
-![[soal3.png]]
+>![](gambarsoal/soal3.png)
 
 ```go
 package main
@@ -156,7 +156,7 @@ func main() {
 ```
 
 > Output
->  ![Output](MODUL4_PROSEDUR/Output/ss3.png)
+![Output](./Output/ss3.png)
 
 Program yang diminta bertujuan untuk mencetak deret bilangan berdasarkan aturan yang diberikan oleh Skiena dan Revilla dalam _Programming Challenges_. Deret ini dimulai dengan sebuah bilangan bulat positif _n_ dan mengikuti aturan berikut:
 
