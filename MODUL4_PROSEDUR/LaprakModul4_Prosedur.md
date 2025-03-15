@@ -48,7 +48,7 @@ func main() {
 ```
 
 > Output
-![Output](./Output/SS1.png)
+![Output](./Output/ss1.png)
 
 Program ini untuk menghitung nilai permutasi (P(n,r)) dan kombinasi (C(n,r)) dari dua pasang bilangan yang diberikan sebagai input.
 Untuk menjalankan program ini, digunakan tiga prosedur utama, yaitu:
