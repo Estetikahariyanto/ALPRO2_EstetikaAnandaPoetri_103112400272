@@ -42,7 +42,7 @@ func main() {
 ```
 
 > Output
-![Output](./Output/ss1.png)
+> ![Output](./Output/ss1.png)
 
 Program ini terdiri dari tiga bagian utama:
 
