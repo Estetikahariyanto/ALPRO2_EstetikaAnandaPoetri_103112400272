@@ -41,8 +41,8 @@ func main() {
 }
 ```
 
->Output
-> ![Output](./Output/gambar1.png)
+> Output
+![Output](./Output/gambar1.png)
 
 Program ini terdiri dari tiga bagian utama:
 
