@@ -42,7 +42,7 @@ func main() {
 ```
 
 > Output
-> ![Output](./Output/gambar1.png)
+![Output](./Output/ss1.png)
 
 Program ini terdiri dari tiga bagian utama:
 
@@ -94,7 +94,7 @@ func main() {
 ```
 
 > Output
-> ![Output](MODUL5_REKURSIF/Output/ss2.png)
+![Output](./Output/ss2.png)
 
 Program ini bertujuan untuk menampilkan pola segitiga bintang menggunakan rekursi.
 
@@ -141,7 +141,7 @@ func main() {
 ```
 
 > Output
-> ![Output](MODUL5_REKURSIF/Output/ss3.png)
+![Output](./Output/ss3.png)
 
 Program ini bertujuan untuk menampilkan faktor dari suatu bilangan N menggunakan rekursi dalam bahasa Go. Faktor dari suatu bilangan N adalah angka-angka yang dapat membagi N tanpa sisa.
 
@@ -196,7 +196,7 @@ func main() {
 ```
 
 > Output
-> ![Output](MODUL5_REKURSIF/Output/ss4.png)
+![Output](./Output/ss4.png)
 
 Program ini dibuat untuk menampilkan barisan bilangan dari N hingga 1, lalu kembali ke N menggunakan rekursi.
 
@@ -240,7 +240,7 @@ printOdd(n, 1)
 ```
 
 > Output
-> ![Output](MODUL5_REKURSIF/Output/ss5.png)
+![Output](./Output/ss5.png)
 
 
 Program untuk menampilkan barisan bilangan ganjil dari 1 hingga N menggunakan rekursi.
@@ -292,7 +292,7 @@ func main() {
 ```
 
 > Output
-> ![Output](MODUL5_REKURSIF/Output/ss6.png)
+![Output](./Output/ss6.png)
 
 Program yang mengimplementasikan rekursi untuk menghitung x^y (x pangkat y) tanpa menggunakan library math.
 
