@@ -16,7 +16,7 @@ Backward: Setelah base-case tercapai, fungsi mulai kembali menyelesaikan pemangg
 
 ## NO 1
 
-![[MODUL5_REKURSIF/gambarsoal/soal1.png]]
+>![](gambarsoal/soal1.png)
 
 ```go
 package main
@@ -42,7 +42,7 @@ func main() {
 ```
 
 >Output
-> ![Output](MODUL5_REKURSIF/Output/ss1.png)
+> ![Output](./Output/gambar1.png)
 
 Program ini terdiri dari tiga bagian utama:
 
@@ -62,7 +62,7 @@ Program ini terdiri dari tiga bagian utama:
     - Jika belum ada, program akan menghitungnya dengan rumus `Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)`.
 ### NO 2
 
-![[MODUL5_REKURSIF/gambarsoal/soal2.png]]
+>![](gambarsoal/soal2.png)
 
 ```go
 package main
@@ -112,7 +112,7 @@ memanggil prinStars(n, 1) utk memulai rekursi
 
 ### NO 3
 
-![[MODUL5_REKURSIF/gambarsoal/soal3.png]]
+>![](gambarsoal/soal3.png)
 
 ```go
 package main
@@ -159,7 +159,7 @@ manggil printfactors(n,1) utk mulai mencari faktor dari 1 hingga N.
 
 ### NO 4
 
-![[MODUL5_REKURSIF/gambarsoal/soal4.png]]
+>![](gambarsoal/soal4.png)
 
 ```go
 package main
@@ -215,7 +215,7 @@ Fungsi main()
 
 ### NO 5
 
-![[MODUL5_REKURSIF/gambarsoal/soal5.png]]
+>![](gambarsoal/soal5.png)
 
 ```go
 package main
@@ -261,7 +261,7 @@ Program untuk menampilkan barisan bilangan ganjil dari 1 hingga N menggunakan re
 
 ### NO 6
 
-![[MODUL5_REKURSIF/gambarsoal/soal6.png]]
+>![](gambarsoal/soal6.png)
 
 ```go
 package main
