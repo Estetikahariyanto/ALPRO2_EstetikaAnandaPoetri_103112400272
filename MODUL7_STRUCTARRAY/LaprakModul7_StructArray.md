@@ -15,9 +15,9 @@ Contoh: nyimpen data mahasiswa seperti, NIM, IPK.
 
 ## NO 1
 
-![[MODUL7_StructArray/gambarsoal/soal1.png]]
+>![](gambarsoal/soal1.png)
 
-![[MODUL7_StructArray/gambarsoal/soal1.1.png]]
+>![](gambarsoal/soal1.1.png)
 ```go
 package main
 
@@ -62,7 +62,7 @@ func main() {
 ```
 
 >Output
-> ![Output](MODUL7_STRUCTARRAY/Output/ss1.png)
+![Output](./Output/ss1.png)
 
 - Titik: struct untuk menyimpan koordinat titik (x, y)
 - Lingkaran: struct untuk menyimpan pusat dan jari-jari lingkaran
@@ -73,7 +73,7 @@ dalamLingkaran(l Lingkaran, p Titik) bool: mengecek apakah titik p berada di dal
 Keluaran berupa string yang menyatakan posisi titik "Titik di dalam lingkaran 1 dan 2", "Titik di dalam lingkaran 1", "Titik di dalam lingkaran 2", atau "Titik di luar lingkaran 1 dan 2".
 ## NO 2
 
-![[MODUL7_StructArray/gambarsoal/soal2.png]]
+>![](gambarsoal/soal2.png)
 
 ```go
 package main
@@ -203,7 +203,7 @@ func main() {
 ```
 
 >Output
-> ![Output](MODUL7_STRUCTARRAY/Output/ss2.png)
+![Output](./Output/ss2.png)
 
 Program ini dibuat untuk:
 Menyimpan sekumpulan bilangan bulat dalam array.
@@ -223,7 +223,7 @@ untuk memotong elemen pada indeks itu
 8. Frekuensi(nilai int) utk menghitung berapa kali suatu bilangan muncul di dlm array.
 ## NO 3
 
-![[MODUL7_StructArray/gambarsoal/soal3.png]]
+>![](gambarsoal/soal3.png)
 
 ```go
 package main
@@ -290,7 +290,7 @@ func main() {
 ```
 
 >Output
-> ![Output](MODUL7_STRUCTARRAY/Output/ss3.png)
+![Output](./Output/ss3.png)
 
 Program ini untuk merekap skor pertandingan bola 2 buah klub bola yang berlaga.
 Pertama-tama program meminta masukan nama-nama klub yang bertanding, kemudian program meminta masukan skor hasil pertandingan kedua klub tersebut. Yang disimpan dalam array adalah nama-nama klub yang menang saja.
@@ -304,9 +304,9 @@ Proses input skor berhenti ketika skor salah satu atau kedua klub tidak valid (n
 
 ## NO 4
 
-![[MODUL7_StructArray/gambarsoal/soal4.png]]
+>![](gambarsoal/soal4.png)
 
-![[MODUL7_StructArray/gambarsoal/soal4.4.png]]
+>![](gambarsoal/soal4.4.png)
 ```go
 package main
 import (
@@ -387,7 +387,7 @@ func main() {
 ```
 
 >Output
-> ![Output](MODUL7_STRUCTARRAY/Output/ss4.png)
+![Output](./Output/ss4.png)
 
 Program ini untuk membuat sebuah subprogram untuk melakukan membalikkan urutan isi array dan memeriksa apakah membentuk palindrom.
 
