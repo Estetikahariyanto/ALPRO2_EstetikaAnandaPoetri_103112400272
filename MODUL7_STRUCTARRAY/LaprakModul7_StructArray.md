@@ -62,7 +62,7 @@ func main() {
 ```
 
 > Output
-![Output](./Output/ss1.png)
+![output](./output/ss1.png)
 
 - Titik: struct untuk menyimpan koordinat titik (x, y)
 - Lingkaran: struct untuk menyimpan pusat dan jari-jari lingkaran
@@ -203,7 +203,7 @@ func main() {
 ```
 
 > Output
-![Output](./Output/ss2.png)
+![output](./output/ss2.png)
 
 
 Program ini dibuat untuk:
@@ -291,7 +291,7 @@ func main() {
 ```
 
 > Output
-![Output](./Output/ss3.png)
+![output](./output/ss3.png)
 
 
 Program ini untuk merekap skor pertandingan bola 2 buah klub bola yang berlaga.
@@ -389,7 +389,7 @@ func main() {
 ```
 
 > Output
-![Output](./Output/ss4.png)
+![output](./output/ss4.png)
 
 
 Program ini untuk membuat sebuah subprogram untuk melakukan membalikkan urutan isi array dan memeriksa apakah membentuk palindrom.
