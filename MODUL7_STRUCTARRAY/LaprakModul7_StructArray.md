@@ -61,7 +61,7 @@ func main() {
 }
 ```
 
->Output
+> Output
 ![Output](./Output/ss1.png)
 
 - Titik: struct untuk menyimpan koordinat titik (x, y)
@@ -202,8 +202,9 @@ func main() {
 }
 ```
 
->Output
+> Output
 ![Output](./Output/ss2.png)
+
 
 Program ini dibuat untuk:
 Menyimpan sekumpulan bilangan bulat dalam array.
@@ -289,8 +290,9 @@ func main() {
 }
 ```
 
->Output
+> Output
 ![Output](./Output/ss3.png)
+
 
 Program ini untuk merekap skor pertandingan bola 2 buah klub bola yang berlaga.
 Pertama-tama program meminta masukan nama-nama klub yang bertanding, kemudian program meminta masukan skor hasil pertandingan kedua klub tersebut. Yang disimpan dalam array adalah nama-nama klub yang menang saja.
@@ -386,8 +388,9 @@ func main() {
 }
 ```
 
->Output
+> Output
 ![Output](./Output/ss4.png)
+
 
 Program ini untuk membuat sebuah subprogram untuk melakukan membalikkan urutan isi array dan memeriksa apakah membentuk palindrom.
 
