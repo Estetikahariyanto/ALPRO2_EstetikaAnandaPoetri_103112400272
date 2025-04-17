@@ -54,7 +54,7 @@ func main() {
 ```
 
 > Output
-> ![output](./output/ss1.png)
+![Output](./Output/ss1.png)
 
 Program ini dibuat menggunakan bahasa golang dan berfungsi untuk mendata berat anak kelinci yang akan dijual di pasar, kemudian mencari berat yang **terkecil** dan **terbesar** dari data yang dimasukkan oleh pengguna.
 
@@ -117,7 +117,7 @@ func main() {
 ```
 
 > Output
-> ![output](./output/ss2.png)
+![Output](./Output/ss2.png)
 
 Input:
 x : jumlah ikan
@@ -194,7 +194,7 @@ func main() {
 ```
 
 > Output
-> ![output](./output/ss3.png)
+> ![Output](./Output/ss3.png)
 
 Program ini bertujuan untuk mencatat berat badan balita dalam satu array dan menentukan berat balita terkecil, terbesar, dan rerata dari data yang dimasukan.
 
