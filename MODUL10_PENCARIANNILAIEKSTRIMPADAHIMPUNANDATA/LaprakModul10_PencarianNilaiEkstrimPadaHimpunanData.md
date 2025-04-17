@@ -54,7 +54,7 @@ func main() {
 ```
 
 >Output
-> ![[MODUL10_PENCARIANNILAIEKSTRIMPADAHIMPUNANDATA/Output/ss1.png]]
+![output](./output/ss1.png)
 
 Program ini dibuat menggunakan bahasa golang dan berfungsi untuk mendata berat anak kelinci yang akan dijual di pasar, kemudian mencari berat yang **terkecil** dan **terbesar** dari data yang dimasukkan oleh pengguna.
 
