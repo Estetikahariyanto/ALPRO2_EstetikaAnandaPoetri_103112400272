@@ -16,7 +16,7 @@ Algoritma pencarian nilai ekstrim bekerja secara sekuensial dan sederhana:
 
 ## NO 1
 
-![[MODUL10_PENCARIANNILAIEKSTRIMPADAHIMPUNANDATA/gambarsoal/soal1.png]]
+>![](gambarsoal/soal1.png)
 
 ```go
 package main
