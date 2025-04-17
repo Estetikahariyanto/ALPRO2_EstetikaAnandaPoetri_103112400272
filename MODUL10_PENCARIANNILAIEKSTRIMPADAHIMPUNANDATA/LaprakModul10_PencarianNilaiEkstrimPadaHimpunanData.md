@@ -53,7 +53,7 @@ func main() {
 }
 ```
 
->Output
+> Output
 ![output](./output/ss1.png)
 
 Program ini dibuat menggunakan bahasa golang dan berfungsi untuk mendata berat anak kelinci yang akan dijual di pasar, kemudian mencari berat yang **terkecil** dan **terbesar** dari data yang dimasukkan oleh pengguna.
@@ -67,7 +67,7 @@ Program juga memiliki validasi untuk memastikan bahwa jumlah anak kelinci yang d
 Secara keseluruhan, program ini adalah contoh sederhana bagaimana cara menggunakan array, input dari pengguna, dan proses pencarian nilai ekstrem (minimum dan maksimum) dalam sebuah kumpulan data di bahasa Golang.
 ## NO 2
 
-![[MODUL10_PENCARIANNILAIEKSTRIMPADAHIMPUNANDATA/gambarsoal/soal2.png]]
+>![](gambarsoal/soal2.png)
 
 ```go
 package main
@@ -116,8 +116,8 @@ func main() {
 }
 ```
 
->Output
-> ![[MODUL10_PENCARIANNILAIEKSTRIMPADAHIMPUNANDATA/Output/ss2.png]]
+> Output
+![output](./output/ss2.png)
 
 Input:
 x : jumlah ikan
@@ -133,7 +133,7 @@ output nya yaitu total berat di setiap wadah dan rata rata berat ikan di setiap 
 Pos pelayanan terpadu (posyandu) sebagai tempat pelayanan kesehatan perlu mencatat data berat balita (dalam kg). petugas akan memasukan data tersebut ke dalam array. dari data yang diperoleh akan dicari berat balita terkecil, terbesar, dan reratanya.
 buatlah program dengan spesifikasi subprogram sbg berikut :
 
-![[MODUL10_PENCARIANNILAIEKSTRIMPADAHIMPUNANDATA/gambarsoal/soal3.png]]
+>![](gambarsoal/soal3.png)
 
 ```go
 package main
@@ -193,8 +193,8 @@ func main() {
 }
 ```
 
->Output
-> ![[MODUL10_PENCARIANNILAIEKSTRIMPADAHIMPUNANDATA/Output/ss3.png]]
+> Output
+![output](./output/ss3.png)
 
 Program ini bertujuan untuk mencatat berat badan balita dalam satu array dan menentukan berat balita terkecil, terbesar, dan rerata dari data yang dimasukan.
 
