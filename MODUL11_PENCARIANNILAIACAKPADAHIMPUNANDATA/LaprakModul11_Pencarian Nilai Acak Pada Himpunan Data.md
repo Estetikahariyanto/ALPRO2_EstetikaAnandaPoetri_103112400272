@@ -191,7 +191,8 @@ Program ini mencari posisi NIM dalam daftar mahasiswa menggunakan binary search 
 
 ## NO 1
 
-![[MODUL11_PENCARIANNILAIACAKPADAHIMPUNANDATA/gambarsoal/soal1.png]]
+>![](gambarsoal/soal1.png)
+
 ```go
 package main
 
@@ -315,8 +316,8 @@ func main() {
     - Wakil Ketua RT (pemenang 2)
 ## NO 3
 
-![[soal3.1.png]]
-![[soal3.2.png]]
+>![](gambarsoal/soal3.1.png)
+>![](gambarsoal/soal3.2.png)
 
 ```go
 package main
