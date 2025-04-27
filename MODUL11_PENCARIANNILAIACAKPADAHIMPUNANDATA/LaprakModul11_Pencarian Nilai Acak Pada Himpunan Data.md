@@ -52,8 +52,8 @@ func main() {
 }
 ```
 
->Output
->![[guided1.png]]
+> Output
+![Output](./Output/guided1.png)
 
 Program ini untuk user memasukkan daftar barang, lalu program mengecek apakah barang tertentu ada di daftar dan mencetak `true` atau `false`.
 
@@ -114,8 +114,8 @@ func main() {
 }
 ```
 
->Output
->![[guided2.png]]
+> Output
+![Output](./Output/guided2.png)
 
 - User input kalimat dan satu karakter.
 - Program mencari **semua posisi** karakter dalam kalimat.
@@ -182,8 +182,8 @@ func main() {
 }
 ```
 
->Output
->![[guided3.png]]
+> Output
+![Output](./Output/guided3.png)
 
 Program ini mencari posisi NIM dalam daftar mahasiswa menggunakan binary search yang cepat dan efisien.
 
@@ -225,8 +225,8 @@ func main() {
 }
 ```
 
->Output
->![[MODUL11_PENCARIANNILAIACAKPADAHIMPUNANDATA/Output/ss1.png]]
+> Output
+![Output](./Output/ss1.png)
 
 - Input angka satu per satu.
 - Jika input `0`, berarti berhenti membaca input.
@@ -301,8 +301,8 @@ func main() {
 }
 ```
 
->Output
->![[MODUL11_PENCARIANNILAIACAKPADAHIMPUNANDATA/Output/ss2.png]]
+> Output
+![Output](./Output/ss2.png)
 
 - Baca input suara satu per satu.    
 - Hitung suara masuk dan suara sah.
@@ -356,8 +356,8 @@ func main() {
 }
 ```
 
->Output
->![[MODUL11_PENCARIANNILAIACAKPADAHIMPUNANDATA/Output/ss3.png]]
+> Output
+![Output](./Output/ss3.png)
 
 - `isiArray(n)` untuk membaca `n` data ke array `data`.
 - `posisi(n, k)` untuk mencari posisi `k` menggunakan binary search karena data sudah terurut membesar.
