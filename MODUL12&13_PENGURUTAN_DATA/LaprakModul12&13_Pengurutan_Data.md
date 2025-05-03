@@ -157,7 +157,7 @@ Program ini menggunakan **Insertion Sort** untuk mengurutkan angka dalam urutan 
 
 ## NO 1
 
->![](gambarsoal/soal1.png
+>![](gambarsoal/soal1.png)
 
 ```go
 package main
