@@ -438,8 +438,8 @@ Program untuk
 
 ## NO 5
 
->![](gambarsoal/soal5.1.png
->![](gambarsoal/soal5.2.png
+>![](gambarsoal/soal5.1.png)
+>![](gambarsoal/soal5.2.png)
 
 ```go
 package main
