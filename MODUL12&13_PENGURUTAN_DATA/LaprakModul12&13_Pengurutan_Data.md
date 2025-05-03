@@ -157,7 +157,7 @@ Program ini menggunakan **Insertion Sort** untuk mengurutkan angka dalam urutan 
 
 ## NO 1
 
-![[MODUL12&13_PENGURUTAN_DATA/gambarsoal/soal1.png]]
+>![](gambarsoal/soal1.png
 
 ```go
 package main
@@ -200,7 +200,7 @@ func main() {
 ```
 
 > Output
-output](./output/ss1.png)
+![output](./output/ss1.png)
 
 Program ini tujuan nya untuk mengurutkan nomor rumah kerabat hercules di setiap daerah secara menaik menggunakan algoritma selection sort.
 
@@ -218,8 +218,8 @@ Mulai dari indeks setelah `i` sampai akhir array, perulangan ini membandingkan s
 
 ## NO 2
 
-![[soal2.1.png]]
-![[soal2.2.png]]
+>![](gambarsoal/soal2.1.png
+>![](gambarsoal/soal2.2.png
 
 ```go
 package main
@@ -285,7 +285,7 @@ func main() {
 ```
 
 > Output
-output](./output/ss2.png)
+![output](./output/ss2.png)
 
 - **Baris 1:**
     - Ganjil: 3, 7, 5 → urut naik → 3 5 7
@@ -304,8 +304,8 @@ output](./output/ss2.png)
     - Cetak **ganjil dulu**, lalu **genap**, untuk tiap daerah (1 baris per daerah).
 ## NO 3
 
-![[MODUL12&13_PENGURUTAN_DATA/gambarsoal/soal3.1.png]]
-![[MODUL12&13_PENGURUTAN_DATA/gambarsoal/soal3.2.png]]
+>![](gambarsoal/soal3.1.png
+>![](gambarsoal/soal3.2.png
 
 ```go
 package main
@@ -350,7 +350,7 @@ func main() {
 ```
 
 > Output
-output](./output/ss3.png)
+![output](./output/ss3.png)
 
 Program ini untuk menentukan nilai _median_ dari sekumpulan bilangan bulat positif yang telah dibaca hingga saat itu, setiap kali ditemukan angka `0` dalam data masukan, dengan menggunakan algoritma _insertion sort_.
 - `insertionSort`: Mengurutkan array.
@@ -361,7 +361,7 @@ Program ini untuk menentukan nilai _median_ dari sekumpulan bilangan bulat posit
 
 ## NO 4
 
-![[MODUL12&13_PENGURUTAN_DATA/gambarsoal/soal4.png]]
+>![](gambarsoal/soal4.png
 
 ```go
 package main
@@ -419,7 +419,7 @@ func main() {
 ```
 
 > Output
-output](./output/ss4.png)
+![output](./output/ss4.png)
 
 Program untuk
 1. **Membaca sekumpulan angka positif** dari input hingga menemukan angka negatif (sebagai penanda akhir input).
@@ -438,8 +438,9 @@ Program untuk
 
 ## NO 5
 
-![[soal5.1.png]]
-![[soal5.2.png]]
+>![](gambarsoal/soal5.1.png
+>![](gambarsoal/soal5.2.png
+
 ```go
 package main
 import (
@@ -499,7 +500,7 @@ func main() {
 ```
 
 > Output
-output](./output/ss5.png)
+![output](./output/ss5.png)
 
 Program ini bertujuan untuk
 - **Menyimpan data buku** seperti ID, judul, penulis, penerbit, tahun, jumlah eksemplar, dan rating.
