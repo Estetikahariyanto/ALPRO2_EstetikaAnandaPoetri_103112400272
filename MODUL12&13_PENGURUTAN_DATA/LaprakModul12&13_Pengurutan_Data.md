@@ -218,8 +218,8 @@ Mulai dari indeks setelah `i` sampai akhir array, perulangan ini membandingkan s
 
 ## NO 2
 
->![](gambarsoal/soal2.1.png
->![](gambarsoal/soal2.2.png
+>![](gambarsoal/soal2.1.png)
+>![](gambarsoal/soal2.2.png)
 
 ```go
 package main
@@ -304,8 +304,8 @@ func main() {
     - Cetak **ganjil dulu**, lalu **genap**, untuk tiap daerah (1 baris per daerah).
 ## NO 3
 
->![](gambarsoal/soal3.1.png
->![](gambarsoal/soal3.2.png
+>![](gambarsoal/soal3.1.png)
+>![](gambarsoal/soal3.2.png)
 
 ```go
 package main
@@ -361,7 +361,7 @@ Program ini untuk menentukan nilai _median_ dari sekumpulan bilangan bulat posit
 
 ## NO 4
 
->![](gambarsoal/soal4.png
+>![](gambarsoal/soal4.png)
 
 ```go
 package main
@@ -419,7 +419,7 @@ func main() {
 ```
 
 > Output
-![output](./output/ss4.png)
+![output](./output/ss4.png))
 
 Program untuk
 1. **Membaca sekumpulan angka positif** dari input hingga menemukan angka negatif (sebagai penanda akhir input).
