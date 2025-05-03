@@ -84,7 +84,8 @@ func main() {
 }
 ```
 
->Output![[MODUL12&13_PENGURUTAN_DATA/output/guided1.png]]
+> Output
+![output](./output/guided1.png)
   
 Program ini membaca sejumlah angka, kemudian memisahkan angka ganjil dan genap. Angka ganjil disortir secara ascending (menaik) dan angka genap disortir secara descending (menurun) menggunakan algoritma Selection Sort. Setelah itu, angka ganjil dan genap yang sudah diurutkan ditampilkan secara berurutan.
 langkah langkah nya:
@@ -143,7 +144,8 @@ func main() {
 }
 ```
 
-> Output![[MODUL12&13_PENGURUTAN_DATA/output/guided2.png]]
+> Output
+![output](./output/guided2.png)
 
 Program ini menggunakan **Insertion Sort** untuk mengurutkan angka dalam urutan **menurun**.
 1. Input jumlah angka `n`, lalu masukkan `n` angka.
@@ -197,7 +199,8 @@ func main() {
 }
 ```
 
->Output![[MODUL12&13_PENGURUTAN_DATA/output/ss1.png]]
+> Output
+output](./output/ss1.png)
 
 Program ini tujuan nya untuk mengurutkan nomor rumah kerabat hercules di setiap daerah secara menaik menggunakan algoritma selection sort.
 
@@ -281,8 +284,8 @@ func main() {
 }
 ```
 
->Output![[MODUL12&13_PENGURUTAN_DATA/output/ss2.png]]
->
+> Output
+output](./output/ss2.png)
 
 - **Baris 1:**
     - Ganjil: 3, 7, 5 → urut naik → 3 5 7
@@ -346,8 +349,8 @@ func main() {
 }
 ```
 
->Output![[MODUL12&13_PENGURUTAN_DATA/output/ss3.png]]
->
+> Output
+output](./output/ss3.png)
 
 Program ini untuk menentukan nilai _median_ dari sekumpulan bilangan bulat positif yang telah dibaca hingga saat itu, setiap kali ditemukan angka `0` dalam data masukan, dengan menggunakan algoritma _insertion sort_.
 - `insertionSort`: Mengurutkan array.
@@ -415,8 +418,8 @@ func main() {
 }
 ```
 
->Output![[MODUL12&13_PENGURUTAN_DATA/output/ss4.png]]
->
+> Output
+output](./output/ss4.png)
 
 Program untuk
 1. **Membaca sekumpulan angka positif** dari input hingga menemukan angka negatif (sebagai penanda akhir input).
@@ -495,8 +498,8 @@ func main() {
 }
 ```
 
->Output![[MODUL12&13_PENGURUTAN_DATA/output/ss5.png]]
->
+> Output
+output](./output/ss5.png)
 
 Program ini bertujuan untuk
 - **Menyimpan data buku** seperti ID, judul, penulis, penerbit, tahun, jumlah eksemplar, dan rating.
