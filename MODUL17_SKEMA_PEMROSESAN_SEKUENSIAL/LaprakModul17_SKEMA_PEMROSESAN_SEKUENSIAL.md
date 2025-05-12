@@ -45,7 +45,9 @@ func main() {
 }
 ```
 
->Output![[ssguided.png]]
+> Output
+![output](./output/ssguided.png)
+
   
 fungsi bubbleSort(arr []int) ini untuk menerima sebuah slice arr berisi angka dan n menyimpan jumlah elemen dalam slice.
 
@@ -116,7 +118,8 @@ func main() {
 }
 ```
 
->Output![[MODUL17_SKEMA_PEMROSESAN_SEKUENSIAL/output/ss1.png]]
+> Output
+![output](./output/ss1.png)
 
 Program ini menerima bilangan satu per satu dari pengguna, menghitung jumlah dan banyaknya bilangan, dan ketika 9999 dimasukkan..program akan menghitung rata rata dan menampilkannya.
 
@@ -169,7 +172,8 @@ func main() {
 }
 ```
 
->Output![[MODUL17_SKEMA_PEMROSESAN_SEKUENSIAL/output/ss2.png]]
+> Output
+![output](./output/ss2.png)
 
 A. apakah string x ada dalam kumpulan n data string tsb ?
 jawaban nya : ya, string mangga ada.
@@ -185,7 +189,7 @@ jawaban nya : ada, krena mangga muncul sebanyak 2 kali.
 
 ## NO 3
 
-![[MODUL17_SKEMA_PEMROSESAN_SEKUENSIAL/gambarsoal/soal1.png]]
+>![](gambarsoal/soal1.png)
 
 ```go
 package main
@@ -226,7 +230,8 @@ func main() {
 }
 ```
 
->Output![[MODUL17_SKEMA_PEMROSESAN_SEKUENSIAL/output/ss3.png]]
+> Output
+![output](./output/ss3.png)
 
 Program ini bertujuan untuk logika dan pemodelan simulasi sederhana dalam konteks yang nyata, yaitu mengukur curah hujan berdasarkan sebaran tetesan air hujan.
 
