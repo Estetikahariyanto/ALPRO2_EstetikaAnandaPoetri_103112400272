@@ -5,7 +5,7 @@
 Mesin abstrak adalah model komputasi yang dirancang di atas model mesin komputasi yang telah ada, yaitu tipe data dan operasi-operasi dasarnya dibuat menggunakan tipe data dan operasi-operasi yang tersedia di mesin di bawahnya. Teknik ini merupakan salah satu cara untuk membangun perangkat lunak.
 
 ## NO 1
-![[soal.png]]
+>![](soal/soal.png)
 
 ```go
 package main
@@ -65,7 +65,8 @@ fmt.Println("Jumlah kata 'LE':", countLE)
 }
 ```
 
->Output![[MODUL18_MESINABSTRAK/output/ss1.png]]
+> output
+![output](./output/ss1.png)
   
 Program ini membaca string diakhiri dengan tanda titik (.) lalu menggunakan mesin karakter utk membaca satu satu karakter, yg kedua adalah menghitung statistik yaitu jumlah karakter, jumlah huruf A, frekuensi huruf A, dan jumlah pasangan (LE).
 `currentChar`: menyimpan karakter yang sedang dibaca.
